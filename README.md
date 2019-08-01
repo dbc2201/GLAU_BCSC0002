@@ -16,6 +16,7 @@ ___
  - **Inheritance in Java**: Types of Inheritance in Java, Types of Relationshops (Is-a, Has-a), Implementing Inheritance in Java, Revisiting Access Modifiers, Super and Final keywords.
  - **Abstract Classes and Interfaces in Java**: Abstract Classes in Java, Defining an Interface in Java, Uses of Interfaces, Interfaces vs Abstract Classes.
  - **Packages**: Understanding Packages, Defining a CLASSPATH.
+ - **Polymorphism**: Introduction, Overloading, Overriding and types of Polymorphism.
 ___
 
 ### Prescribed Books
