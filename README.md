@@ -11,7 +11,7 @@ ___
  - **Object-Oriented Programming Features**: Abstraction, Encapsulation, Inheritance and Polymorphism, Procedural Paradigm vs Object-Oriented Paradigm, Advantages of using Object-Oriented Paradigm, Classes, Objects, Code-Reusability and data hiding.  
  - **Introduction to Java Programming Language**: JDK, JRE, JVM, Java's Program Structure, Java's Class Library, Java Tokens and Scope of variables in Java.
  - **Introduction to OOP with Python Programming Language**.
- - ****
+ - **Implementing Object-Oriented Programming using Java**: Defining Classes and Methods, Creating objects of a Class, Introduction to Access Modifiers in Java.
 ___
 
 ### Prescribed Books
