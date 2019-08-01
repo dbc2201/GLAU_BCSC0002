@@ -17,6 +17,7 @@ ___
  - **Abstract Classes and Interfaces in Java**: Abstract Classes in Java, Defining an Interface in Java, Uses of Interfaces, Interfaces vs Abstract Classes.
  - **Packages**: Understanding Packages, Defining a CLASSPATH.
  - **Polymorphism**: Introduction, Overloading, Overriding and types of Polymorphism.
+ - **Exception Handling**: Exception and Errors, Types of Errors and Exceptions in Java, Exception Hierarchy, Key Terms (Try, Catch, Finally, Throw and Throws) and Custom Exception.
 ___
 
 ### Prescribed Books
