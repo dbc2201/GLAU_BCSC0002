@@ -12,6 +12,8 @@ ___
  - **Introduction to Java Programming Language**: JDK, JRE, JVM, Java's Program Structure, Java's Class Library, Java Tokens and Scope of variables in Java.
  - **Introduction to OOP with Python Programming Language**.
  - **Implementing Object-Oriented Programming using Java**: Defining Classes and Methods, Creating objects of a Class, Introduction to Access Modifiers in Java.
+ - **Constructors in Java**: Introduction to Constuctors, Uses, Declaration, Differences between a Method and a Constructor, Types of Constructors, Constructors and Inheritance.
+ 
 ___
 
 ### Prescribed Books
