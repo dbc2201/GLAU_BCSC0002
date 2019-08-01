@@ -37,3 +37,6 @@ ___
 
 ### List of tools
 ___
+
+1. [Java JDK (Suggested: OpenJDK, version 11 or higher)](https://jdk.java.net)  
+2. IntelliJ
