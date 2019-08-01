@@ -39,4 +39,8 @@ ___
 ___
 
 1. [Java JDK (Suggested: OpenJDK, version 11 or higher)](https://jdk.java.net)  
-2. IntelliJ
+2. [IntelliJ IDEA 2019.2 or higher](https://www.jetbrains.com/idea/download/)  
+3. [Python 3.7 or higher](https://www.python.org/downloads/)
+4. [PyCharm IDE 2019.2 or higher](https://www.jetbrains.com/pycharm/download/)
+5. [Git 2.22.0 or higher](https://git-scm.com/downloads)
+6. [GitHub Account](https://github.com)
