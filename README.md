@@ -44,3 +44,7 @@ ___
 4. [PyCharm IDE 2019.2 or higher](https://www.jetbrains.com/pycharm/download/)
 5. [Git 2.22.0 or higher](https://git-scm.com/downloads)
 6. [GitHub Account](https://github.com)
+
+___
+
+> Course Author: Divyansh Bhardwaj, Technical Trainer, GLAU
