@@ -14,6 +14,7 @@ ___
  - **Implementing Object-Oriented Programming using Java**: Defining Classes and Methods, Creating objects of a Class, Introduction to Access Modifiers in Java.
  - **Constructors in Java**: Introduction to Constuctors, Uses, Declaration, Differences between a Method and a Constructor, Types of Constructors, Constructors and Inheritance.
  - **Inheritance in Java**: Types of Inheritance in Java, Types of Relationshops (Is-a, Has-a), Implementing Inheritance in Java, Revisiting Access Modifiers, Super and Final keywords.
+ - **Abstract Classes and Interfaces in Java**: Abstract Classes in Java, Defining an Interface in Java, Uses of Interfaces, Interfaces vs Abstract Classes.
  
 ___
 
