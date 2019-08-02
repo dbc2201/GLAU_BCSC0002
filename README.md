@@ -49,4 +49,4 @@ ___
 ### Video Links
 1. [Object-oriented Programming in 7 minutes | Mosh](https://youtu.be/pTB0EiLXUC8)
 ___
-> Repository Author: Divyansh Bhardwaj, Technical Trainer, GLAU
+> Repository Author: [Divyansh Bhardwaj](mailto:divyansh.bhardwaj@gla.ac.in), Technical Trainer, GLAU
