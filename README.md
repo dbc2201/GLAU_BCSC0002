@@ -47,4 +47,4 @@ ___
 
 ___
 
-> Course Author: Divyansh Bhardwaj, Technical Trainer, GLAU
+> Repository Author: Divyansh Bhardwaj, Technical Trainer, GLAU
