@@ -39,11 +39,10 @@ ___
 ___
 
 1. [Open JDK (Suggested: OpenJDK, version 11 or higher)](https://jdk.java.net), [Oracle Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html)  
-2. [IntelliJ IDEA 2019.2 or higher](https://www.jetbrains.com/idea/download/)  
-3. [Python 3.7 or higher](https://www.python.org/downloads/)
-4. [PyCharm IDE 2019.2 or higher](https://www.jetbrains.com/pycharm/download/)
-5. [Git 2.22.0 or higher](https://git-scm.com/downloads)
-6. [GitHub Account](https://github.com)
+2. [Python 3.7 or higher](https://www.python.org/downloads/)
+3. [Git 2.22.0 or higher](https://git-scm.com/downloads)
+4. [GitHub Account](https://github.com)
+5. [JetBrains ToolBox App](https://www.jetbrains.com/toolbox/download/download-thanks.html)
 
 ___
 
