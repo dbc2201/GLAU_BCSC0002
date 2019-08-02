@@ -38,7 +38,7 @@ ___
 ### List of tools
 ___
 
-1. [Java JDK (Suggested: OpenJDK, version 11 or higher)](https://jdk.java.net)  
+1. [Java JDK (Suggested: OpenJDK, version 11 or higher)](https://jdk.java.net), [Oracle Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html)  
 2. [IntelliJ IDEA 2019.2 or higher](https://www.jetbrains.com/idea/download/)  
 3. [Python 3.7 or higher](https://www.python.org/downloads/)
 4. [PyCharm IDE 2019.2 or higher](https://www.jetbrains.com/pycharm/download/)
