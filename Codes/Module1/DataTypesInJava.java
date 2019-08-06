@@ -1,5 +1,6 @@
 /**
  * @author Divyansh Bhardwaj
+ * A simple Java program to demonstrate different primitive data types in Java.
  * */
 public class DataTypesInJava {
 	public static void main(String[] args) {
