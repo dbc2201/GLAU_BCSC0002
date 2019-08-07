@@ -49,5 +49,7 @@ ___
 ### Video Links
 1. [Object-oriented Programming in 7 minutes | Mosh](https://youtu.be/pTB0EiLXUC8)
 2. [Floating Point Numbers | Computerphile](https://youtu.be/PZRI1IfStY0)
+3. [JDK, JRE, JVM: What Are They and What Are Their Differences? | The Learn Programming Channel
+](https://youtu.be/BXFHuaQNnLo)
 ___
 > Repository Author: [Divyansh Bhardwaj](mailto:divyansh.bhardwaj@gla.ac.in), Technical Trainer, GLAU
