@@ -9,7 +9,7 @@ ___
 ### Syllabus
 1. Module 1
  - **Object-Oriented Programming Features**: Abstraction, Encapsulation, Inheritance and Polymorphism, Procedural Paradigm vs Object-Oriented Paradigm, Advantages of using Object-Oriented Paradigm, [Classes](https://github.com/dbc2201/GLAU_BCSC0002/blob/master/Codes/Module1/SimpleClass.java), Objects, Code-Reusability and data hiding.  
- - **Introduction to Java Programming Language**: JDK, JRE, JVM, Java's Program Structure, Java's Class Library, Java Tokens and Scope of variables in Java.
+ - **Introduction to Java Programming Language**: [JDK, JRE, JVM](/Images/java1.png), Java's Program Structure, Java's Class Library, Java Tokens and Scope of variables in Java.
  - **Introduction to OOP with Python Programming Language**.
  - **Implementing Object-Oriented Programming using Java**: Defining Classes and Methods, Creating objects of a Class, Introduction to Access Modifiers in Java.
  - **Constructors in Java**: Introduction to Constuctors, Uses, Declaration, Differences between a Method and a Constructor, Types of Constructors, Constructors and Inheritance.
@@ -49,8 +49,8 @@ ___
 ### Video Links
 1. [Object-oriented Programming in 7 minutes | Mosh](https://youtu.be/pTB0EiLXUC8)
 2. [Floating Point Numbers | Computerphile](https://youtu.be/PZRI1IfStY0)
-3. [JDK, JRE, JVM: What Are They and What Are Their Differences? | The Learn Programming Channel
-](https://youtu.be/BXFHuaQNnLo)
+
+
 4. [Do Software Developers Need Communication Skills? | Programming Tip of the Day - Tim Buchalka](https://youtu.be/Kqq8HQbYEG0)  
 ___
 > Repository Author: [Divyansh Bhardwaj](mailto:divyansh.bhardwaj@gla.ac.in), Technical Trainer, GLAU
