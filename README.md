@@ -9,7 +9,7 @@ ___
 ### Syllabus
 1. Module 1
  - **Object-Oriented Programming Features**: Abstraction, Encapsulation, Inheritance and Polymorphism, Procedural Paradigm vs Object-Oriented Paradigm, Advantages of using Object-Oriented Paradigm, [Classes](https://github.com/dbc2201/GLAU_BCSC0002/blob/master/Codes/Module1/SimpleClass.java), Objects, Code-Reusability and data hiding.  
- - **Introduction to Java Programming Language**: [JDK, JRE, JVM](/Images/java1.png), Java's Program Structure, Java's Class Library, Java Tokens and Scope of variables in Java.
+ - **Introduction to Java Programming Language**: [JDK, JRE, JVM](/Notes/JDK-JRE-JVM.md), Java's Program Structure, Java's Class Library, Java Tokens and Scope of variables in Java.
  - **Introduction to OOP with Python Programming Language**.
  - **Implementing Object-Oriented Programming using Java**: Defining Classes and Methods, Creating objects of a Class, Introduction to Access Modifiers in Java.
  - **Constructors in Java**: Introduction to Constuctors, Uses, Declaration, Differences between a Method and a Constructor, Types of Constructors, Constructors and Inheritance.
