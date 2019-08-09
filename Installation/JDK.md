@@ -26,6 +26,10 @@ namely, Windows, Linux and MacOS. It is suggested to have the latest version ins
 9.  On the right-hand side, there will be an option for "New" and then click "Browse", in the new window that opened go to the path described in step number 3 and click "ok".
 10. Close all the windows by clicking "ok"
 
+## Steps for Linux
+Chances are, your distribution on Linux will already have some version of Java JDK installed, if not, then atleast the
+JRE, you can go to the next section and verify it.
+
 ---
 
 ## How to verify your installation
