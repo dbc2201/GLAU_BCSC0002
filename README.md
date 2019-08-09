@@ -37,7 +37,8 @@ ___
 ### List of tools
 ___
 
-1. [Open JDK (Suggested: OpenJDK, version 11 or higher)](https://jdk.java.net), [Oracle Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) [Installation Steps](Installation/JDK.md)  
+1. [Open JDK (Suggested: OpenJDK, version 11 or higher)](https://jdk.java.net), [Oracle Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) |  
+- [Installation Steps](Installation/JDK.md)  
 2. [Python 3.7 or higher](https://www.python.org/downloads/)
 3. [Git 2.22.0 or higher](https://git-scm.com/downloads)
 4. [GitHub Account](https://github.com)
