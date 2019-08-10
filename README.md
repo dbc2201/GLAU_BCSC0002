@@ -29,6 +29,7 @@ ___
 ___
 
 ### Assignments
+- Assignment 1 : Coming Soon
 ___
 
 ### Weekly Quizzes
