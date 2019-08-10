@@ -33,6 +33,9 @@ ___
 ___
 
 ### Weekly Quizzes
+- Weekly Quiz 1  
+    - Link : http://bit.ly/oop_quiz_1  
+    - Password : bcsc0002.1324  
 ___
 
 ### List of tools
