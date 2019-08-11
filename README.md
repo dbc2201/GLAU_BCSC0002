@@ -29,7 +29,8 @@ ___
 ___
 
 ### Assignments
-- Assignment 1 : Coming Soon
+- [Assignment 1](https://github.com/dbc2201/GLAU_OOP_2019_Assignment1)  
+Deadline: 24 August 2019, till midnight.
 ___
 
 ### Weekly Quizzes
