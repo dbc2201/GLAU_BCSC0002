@@ -30,7 +30,17 @@ ___
 
 ### Assignments
 - [Assignment 1](https://github.com/dbc2201/GLAU_OOP_2019_Assignment1)  
-Deadline: 24 August 2019, till midnight.
+Deadline: 24 August 2019, till midnight.  
+    Instructions:
+    1. Go to the link of the assignment repository.
+    2. Clone the repository by using either the Official JetBrains Toolbox extension for Chrome, [here](https://chrome.google.com/webstore/detail/jetbrains-toolbox-extensi/offnedcbhjldheanlbojaefbfbllddna?hl=en) or simply clicking the big green clone/download button and the copying th URL inside it.
+    3. If you have copied the URL of the repo, follow these steps,
+        1. Open IntelliJ IDEA.
+        2. Click File > New > Project From Version Control > Git.
+        3. At the prompt, enter/paste the assignment repo URL that you copied.
+        4. Click on test, if the test is successful, click clone. (Please check your internet connection before attempting to clone)
+    4. If you simple cloned the repo from the extension button, everything will be done for you, simple click the clone button.
+    5. Go to the `Gravity.java` file and get coding!
 ___
 
 ### Weekly Quizzes
