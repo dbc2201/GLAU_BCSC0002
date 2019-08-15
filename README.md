@@ -31,7 +31,9 @@ ___
 ### Assignments
 - [Assignment 1](https://github.com/dbc2201/GLAU_OOP_2019_Assignment1)  
 Deadline: 24 August 2019, till midnight.  
-    Instructions:
+    Instructions:  
+    
+    How to clone the repository to attempt the assignment.
     1. Go to the link of the assignment repository.
     2. Clone the repository by using either the Official JetBrains Toolbox extension for Chrome, [here](https://chrome.google.com/webstore/detail/jetbrains-toolbox-extensi/offnedcbhjldheanlbojaefbfbllddna?hl=en) or simply clicking the big green clone/download button and the copying th URL inside it.
     3. If you have copied the URL of the repo, follow these steps,
@@ -41,6 +43,19 @@ Deadline: 24 August 2019, till midnight.
         4. Click on test, if the test is successful, click clone. (Please check your internet connection before attempting to clone)
     4. If you simple cloned the repo from the extension button, everything will be done for you, simple click the clone button.
     5. Go to the `Gravity.java` file and get coding!
+    
+    How to submit the answer.
+    1. Initialize a `Git` repository inside your cloned assignment project.
+    - Go to VCS > Import into Version Control > Create Git Repository.
+    - A window will open up, on the top-left side, there will be a folder-like icon, click it and press `OK`.
+    - On the bottom-right side of your IntelliJ, `Git: master` will appear.
+    2. Commit your answer with the shortcut `ctrl + K`.
+    - It is a good practice to commit for every change and provide meaningful commit messages.
+    [Here](https://chris.beams.io/posts/git-commit/) is a comprehensive guide to writing commit messages.
+    3. Then, share the project on `GitHub`, go to VCS > Import into Version Control > Share Project On GitHub.
+    4. You work is done!
+    5. **Optional**: If you want to make changes to your answer, you can simple change the code, commit it again and
+    use this shortcut, `ctrl + shift + K` and press`Ok`.
 ___
 
 ### Weekly Quizzes
