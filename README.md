@@ -65,6 +65,12 @@ ___
     - Password : bcsc0002.1324  
 ___
 
+- Weekly Quiz 2
+    - Link : http://bit.ly/oop_quiz_2  
+    - Password : bcsc0002.4657
+    
+---
+
 ### List of tools
 ___
 
