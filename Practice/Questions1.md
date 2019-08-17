@@ -16,3 +16,17 @@ public class Main {
 }
 ```
 
+#### Input Format  
+```
+GLA Mathura
+```
+
+#### Output Format  
+```
+GLA University Mathura
+```
+
+---
+
+
+
