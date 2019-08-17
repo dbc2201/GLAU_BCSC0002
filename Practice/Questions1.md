@@ -17,11 +17,11 @@ public class Main {
 
 - Write a program in Java to accept a `String` value from the user and print a welcome message in the format given below.  
 
-#### Sample Input
+###### Sample Input
 ```
 Sartaaj
 ``` 
-#### Sample Output
+###### Sample Output
 ```
 Welcome, Sartaaj!
 ```
@@ -31,12 +31,12 @@ Welcome, Sartaaj!
 - Write a program in Java that accepts two `String` type values and generate the output in the required format.  
 
 
-#### Sample Input  
+###### Sample Input  
 ```
 GLA Mathura
 ```
 
-#### Sample Output  
+###### Sample Output  
 ```
 GLA University Mathura
 ```
@@ -49,12 +49,12 @@ GLA University Mathura
   * the product of the two numbers
   * the quotient and the remainder of the two numbers after division
   
-#### Sample Input
+###### Sample Input
 ```
 12 3
 ``` 
 
-#### Sample Output
+###### Sample Output
 ```
 12 + 3 = 15
 12 - 3 = 9
@@ -67,12 +67,12 @@ GLA University Mathura
 
 - Write a program in Java to accept a number from the user and to check whether the number if positive, negative or zero.  
 
-#### Sample Input
+###### Sample Input
 ```
 45
 ```
 
-#### Sample Output
+###### Sample Output
 ```
 Positive
 ```
@@ -81,12 +81,12 @@ Positive
 
 - Write a program in Java to accept a number from the user and to check whether the number if odd or even.  
 
-#### Sample Input
+###### Sample Input
 ```
 45
 ```
 
-#### Sample Output
+###### Sample Output
 ```
 Odd
 ```
@@ -95,12 +95,12 @@ Odd
 
 - Write a program in Java to accept two `char` type values from the user and display them in alphabetical order.  
 
-#### Sample Input
+###### Sample Input
 ```
 e a
 ```
 
-#### Sample Output
+###### Sample Output
 ```
 a e
 ```
@@ -112,12 +112,12 @@ a e
     * print 'digit' if the character is a digit  
     * print 'special character' if the character is anything else  
     
-#### Sample Input
+###### Sample Input
 ```
 4
 ```
 
-#### Sample Output
+###### Sample Output
 ```
 digit
 ```
@@ -138,12 +138,12 @@ digit
     
     Print the rate of interest for the input values.
     
-#### Sample Input
+###### Sample Input
 ```
 male 25
 ```
 
-#### Sample Output
+###### Sample Output
 ```
 8.4%
 ```
@@ -154,14 +154,30 @@ male 25
     * if the character is in lower-case, print the character in upper-case.
     * if the character is in upper-case, print the character in lower-case.
     
-#### Sample Input
+###### Sample Input
 ```
 a
 ```
 
-#### Sample Output
+###### Sample Output
 ```
 A
 ```
 
 ---
+
+- Write a program in Java to accept an integer from the user and print the name of the month corresponding to the number.  
+The values can only be from the range (1, 12), if the value falls out of the range, print `Invalid Number`.
+
+###### Sample Input
+```
+1
+```
+
+###### Sample Output
+```
+January
+```
+
+---
+
