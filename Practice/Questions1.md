@@ -181,3 +181,60 @@ January
 
 ---
 
+- Write a program in Java to accept two numbers from the user `a` and `b` such that `a <= b`.
+    Print all the even numbers between `a` and `b`.
+    
+###### Sample Input
+```
+2 5
+``` 
+
+###### Sample Output
+```
+4
+```
+
+---
+
+- Write a program in Java to accept a number from the user and to check whether the number is prime.
+
+###### Sample Input
+```
+7
+```
+
+###### Sample Output
+```
+7 is a prime number.
+```
+
+---
+
+- Write a program in Java to print the sum of all the digits of a number.
+
+###### Sample Input
+```
+123
+```
+
+###### Sample Output
+```
+6
+```
+
+---
+
+- Write a program in Java to accept a number from the user and to check whether the number is a palindrome.
+
+###### Sample Input
+```
+110011
+```
+
+###### Sample Output
+```
+110011 is a palindrome.
+```
+
+---
+
