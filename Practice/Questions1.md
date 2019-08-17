@@ -43,3 +43,22 @@ GLA University Mathura
 
 --- 
 
+- Write a program in Java to accept two integers and print the following -  
+  * the sum of the two numbers
+  * the difference of the two numbers (subtract the smaller number from the larger number)
+  * the product of the two numbers
+  * the quotient and the remainder of the two numbers after division
+  
+#### Input Format
+```
+12 3
+``` 
+
+#### Output Format
+```
+12 + 3 = 15
+12 - 3 = 9
+12 * 3 = 36
+12 / 3 = 4
+12 % 3 = 0
+``` 
