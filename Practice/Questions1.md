@@ -1,6 +1,6 @@
 ## Practice Questions Set 1 (Input & Output)
 
-Hint: Use the following statements -
+Hint: Use the following statements for taking input in a program-
 ```java
 import java.util.Scanner;  //   to import the Scanner class inside your program
 
@@ -17,11 +17,11 @@ public class Main {
 
 - Write a program in Java to accept a `String` value from the user and print a welcome message in the format given below.  
 
-#### Input Format
+#### Sample Input
 ```
 Sartaaj
 ``` 
-#### Output Format
+#### Sample Output
 ```
 Welcome, Sartaaj!
 ```
@@ -31,12 +31,12 @@ Welcome, Sartaaj!
 - Write a program in Java that accepts two `String` type values and generate the output in the required format.  
 
 
-#### Input Format  
+#### Sample Input  
 ```
 GLA Mathura
 ```
 
-#### Output Format  
+#### Sample Output  
 ```
 GLA University Mathura
 ```
@@ -49,12 +49,12 @@ GLA University Mathura
   * the product of the two numbers
   * the quotient and the remainder of the two numbers after division
   
-#### Input Format
+#### Sample Input
 ```
 12 3
 ``` 
 
-#### Output Format
+#### Sample Output
 ```
 12 + 3 = 15
 12 - 3 = 9
@@ -62,3 +62,106 @@ GLA University Mathura
 12 / 3 = 4
 12 % 3 = 0
 ``` 
+
+---
+
+- Write a program in Java to accept a number from the user and to check whether the number if positive, negative or zero.  
+
+#### Sample Input
+```
+45
+```
+
+#### Sample Output
+```
+Positive
+```
+
+---
+
+- Write a program in Java to accept a number from the user and to check whether the number if odd or even.  
+
+#### Sample Input
+```
+45
+```
+
+#### Sample Output
+```
+Odd
+```
+
+---
+
+- Write a program in Java to accept two `char` type values from the user and display them in alphabetical order.  
+
+#### Sample Input
+```
+e a
+```
+
+#### Sample Output
+```
+a e
+```
+
+---
+
+- Write a program in Java to accept a `char` type value from the user and   
+    * print 'alphabet' if the character is an alphabet  
+    * print 'digit' if the character is a digit  
+    * print 'special character' if the character is anything else  
+    
+#### Sample Input
+```
+4
+```
+
+#### Sample Output
+```
+digit
+```
+
+---
+
+- Write a program in Java to accept two values from the user.  
+    * the first value will be a `String`, for gender, either "male" or "female"    
+    * the second value will be an `int`, for age
+    
+    If the gender is female and the age is between 1 and 58 (both inclusive), the rate of interest will be 8.2%.  
+    
+    If the gender is female and the age is between 59 and 100 (both inclusive), the rate of interest will be 9.2%.  
+    
+    If the gender is male and the age is between 1 and 58 (both inclusive), the rate of interest is 8.4%.  
+    
+    If the gender is male and the age is between 59 and 100 (both inclusive), the rate of interest is 10.5%.  
+    
+    Print the rate of interest for the input values.
+    
+#### Sample Input
+```
+male 25
+```
+
+#### Sample Output
+```
+8.4%
+```
+
+---
+
+- Write a program in Java to accept a character from the user. Then,  
+    * if the character is in lower-case, print the character in upper-case.
+    * if the character is in upper-case, print the character in lower-case.
+    
+#### Sample Input
+```
+a
+```
+
+#### Sample Output
+```
+A
+```
+
+---
