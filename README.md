@@ -34,6 +34,7 @@ Deadline: 24 August 2019, till midnight.
     Instructions:  
     **UPDATE: You can simply go to this link here and accept the [assignment](https://classroom.github.com/a/5MZaqSkJ)**  
     Please go to this link even if you have manually downloaded the assignment!  
+    
     How to clone the repository to attempt the assignment.
     1. Go to the link of the assignment repository.
     2. Clone the repository by using either the Official JetBrains Toolbox extension for Chrome, [here](https://chrome.google.com/webstore/detail/jetbrains-toolbox-extensi/offnedcbhjldheanlbojaefbfbllddna?hl=en) or simply clicking the big green clone/download button and the copying th URL inside it.
