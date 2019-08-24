@@ -29,35 +29,13 @@ ___
 ___
 
 ### Assignments
-- Assignment 1  
-Deadline: 24 August 2019, till midnight.  
-    Instructions:  
-    **UPDATE: You can simply go to this link here and accept the [assignment](https://classroom.github.com/a/5MZaqSkJ)**  
-    Please go to this link even if you have manually downloaded the assignment!  
-    
-    How to clone the repository to attempt the assignment.
-    1. Go to the link of the assignment repository.
-    2. Clone the repository by using either the Official JetBrains Toolbox extension for Chrome, [here](https://chrome.google.com/webstore/detail/jetbrains-toolbox-extensi/offnedcbhjldheanlbojaefbfbllddna?hl=en) or simply clicking the big green clone/download button and the copying th URL inside it.
-    3. If you have copied the URL of the repo, follow these steps,
-        1. Open IntelliJ IDEA.
-        2. Click File > New > Project From Version Control > Git.
-        3. At the prompt, enter/paste the assignment repo URL that you copied.
-        4. Click on test, if the test is successful, click clone. (Please check your internet connection before attempting to clone)
-    4. If you simple cloned the repo from the extension button, everything will be done for you, simple click the clone button.
-    5. Go to the `Gravity.java` file and get coding!
-    
-    How to submit the answer.
-    1. Initialize a `Git` repository inside your cloned assignment project.
-    - Go to VCS > Import into Version Control > Create Git Repository.
-    - A window will open up, on the top-left side, there will be a folder-like icon, click it and press `OK`.
-    - On the bottom-right side of your IntelliJ, `Git: master` will appear.
-    2. Commit your answer with the shortcut `ctrl + K`.
-    - It is a good practice to commit for every change and provide meaningful commit messages.
-    [Here](https://chris.beams.io/posts/git-commit/) is a comprehensive guide to writing commit messages.
-    3. Then, share the project on `GitHub`, go to VCS > Import into Version Control > Share Project On GitHub.
-    4. You work is done!
-    5. **Optional**: If you want to make changes to your answer, you can simple change the code, commit it again and
-    use this shortcut, `ctrl + shift + K` and press`Ok`.
+- Assignment 2
+1. Click on the link for your section and select your name.  
+    [Section A](https://classroom.github.com/a/iH7CLSZE)  
+    [Section E](https://classroom.github.com/a/bOhPWCMT)  
+    [Section F](https://classroom.github.com/a/YLxoC6IS)  
+    [Section M](https://classroom.github.com/a/qvaMgmiJ)  
+2. Click on accept assignment.    
 ___
 
 ### Weekly Quizzes
