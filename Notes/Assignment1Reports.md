@@ -72,7 +72,7 @@
 |   2    |       Manish Gautam        |      manishgautam30      |                  5 (wrong commit)                   |
 |   3    |       Pankaj Sharma        |     pankajsharmacs18     |                          0                          |
 |   4    | Abhinandan Padmakar Pandey | AbhinandanPadmakarPandey |                          0                          |
-|   5    |      Pranav Varshney       |        pranav810         |                          0                          |
+|   5    |      Pranav Varshney       |        pranav810         |                          10                          |
 |   6    |        Sahas Bansal        |      bansalsahas53       |                          0                          |
 |   7    |      Palak Maheshwari      |     palak-maheshwari     |                          0                          |
 |   8    |    Krishna Kant Sharma     |       kksharmaz786       |                          0                          |
