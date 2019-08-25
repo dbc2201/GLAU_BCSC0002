@@ -90,7 +90,7 @@
 |   20   |         Neeti jain         |        neeti2000         |                          0                          |
 |   21   |       Jitendra Parma       |     Jitendra21062000     |                          0                          |
 |   22   |     Chandrika Singhal      |       chandrika-11       |                          0                          |
-|   23   |        Taran Singh         |       taransingh27       |                  5 (wrong commit)                   |
+|   23   |        Taran Singh         |       taransingh27       |                          0                          |
 |   24   |     Tanmay Srivastava      |    tanmaysrivastava13    |                          0                          |
 |   25   |      Saurabh Saraswat      |         ssroyal          |                         10                          |
 |   26   |      Kartikeya Pandey      |    Kartikeya25Pandey     |                          0                          |
