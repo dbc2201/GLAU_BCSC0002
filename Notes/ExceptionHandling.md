@@ -205,6 +205,46 @@ class ExceptionHandlingDemo {
 - The finally statement can catch any exception that was not caught by any of the previous `catch` statements, much like the `default` label in the `switch-case` construct.
 - The `finally` statement will _always_ execute, even in no exception was thrown in the code.
 - We generally use the `finally` statement to perform clean-up operations after the code, ex - closing files and releasing system resources.
+- The general syntax of a `finally` block is as follows
+```java
+class A {
+    public static void main(String[] args){
+        try {
+        	int a = 4;
+            int b = 5 / (a - 4);
+        } catch (ArithmeticException aE) {
+        	System.out.println("Arithmetic Exception");
+        } finally{
+        	System.out.println("Program Continues!");
+        }
+    }
+}
+```
 
+##### Throwing our own custom exceptions
 
-
+```java
+import java.lang.Exception;
+class MyCustomException extends Exception{
+	MyCustomException(String message) {
+		super(message);
+	}
+}
+class ExceptionTest {
+	public static void main(String[] args){
+		int x = 5;
+		int y = 1000;
+		try {
+			float z = (float) x / (float) y;
+			if (z < 0.01) {
+				throw new MyCustomException("Number is too small");
+			}
+		} catch (MyCustomException mce) {
+			System.out.print("my.custom.Exception: ");
+			System.out.println(mce.getMessage());
+		} finally {
+			System.out.println("This is always printed!");
+		}
+	}
+}
+```
